@@ -29,6 +29,34 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
+<html>
+    <head>
+        <center>
+        <h1>Student Registration Form</h1>
+        </center>
+
+    </head>
+
+
+
+<form>
+    <center>
+    <table>
+        
+        <tr>
+            <td>Name:  </td> <td><input type="text" placeholder="Enter your name"></td>
+        </tr>
+        <tr>
+            <td>Age:   </td> <td><input type="number" placeholder="Enter your age"></td>
+        </tr>
+        <tr>
+            <td>Address:   </td> <td><input type="text" placeholder="Enter your address"></td>
+        </tr>
+        <tr>
+            <td>Department:</td>
+
+
+
 
 ## OUTPUT
 
